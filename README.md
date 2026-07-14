@@ -1,6 +1,6 @@
 # Fala aí! Eu sou o Lucas ⚡
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no Rio de Janeiro e estou buscando minha primeira oportunidade de **estágio em tecnologia** (com disponibilidade imediata para atuar presencialmente ou de forma híbrida em São Paulo).
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Rio de Janeiro e estou buscando minha primeira oportunidade de **estágio em tecnologia** (com disponibilidade imediata para atuar presencialmente ou de forma híbrida).
 
 Acredito que um bom desenvolvedor não é aquele que decora sintaxe, mas o que entende a lógica por trás do problema e escreve códigos limpos, fáceis de ler e de dar manutenção. Gosto de construir soluções práticas e funcionais, focando sempre na qualidade do que entrego.
 
